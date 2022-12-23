@@ -25,3 +25,7 @@ Task 3:
        B- Your assumptions for revenue growth, gross margin, and operating margin should change for each scenario.
        c-  The forecasting model should be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen               company sticker symbol.
        D- Deliverable: Spreadsheet with tab for Forecasting Model
+       
+     
+[NYSE Data Project Submission Excel.xlsx](https://github.com/Bud00r/-Project-Analyze-NYSE-Data/files/10293422/NYSE.Data.Project.Submission.Excel.xlsx)
+
