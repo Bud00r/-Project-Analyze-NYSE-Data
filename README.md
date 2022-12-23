@@ -1,4 +1,4 @@
-# Project-Analyze-NYSE-Data
+ # Project-Analyze-NYSE-Data
 
 
 Planning ahead
