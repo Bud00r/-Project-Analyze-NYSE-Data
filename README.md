@@ -26,7 +26,7 @@ Task 3:
        c-  The forecasting model should be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen               company sticker symbol.
        D- Deliverable: Spreadsheet with tab for Forecasting Model
        
-       <img width="580" alt="image" src="https://user-images.githubusercontent.com/120724010/237050918-97c7e06d-81a2-4687-93ee-b2a5705e5a34.png">
+
 
        
      
